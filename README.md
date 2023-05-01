@@ -15,6 +15,10 @@ Implement using:
 - Express.js
 - React Native
 
+## Update
+- Due to my school workload, I had to put the project on hold.
+- I hope to pick this project back up in mid-May
+
 # Goals
 
 ## Near Future (1-2 Weeks)
