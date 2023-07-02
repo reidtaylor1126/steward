@@ -1,6 +1,10 @@
 # Steward
 A modern pantry management system
 
+## Update
+I've spent some time thinking and learning about food waste, and I've decided to slightly change the focus of this project. Instead of just telling users to throw away food when the manufacturer wants them to, the system will allow users to contribute data on how long a specific food item lasted beyond the listed date, and provide recommendations based on data rather than marketing.
+I also regret not making the progress on this project that I had hoped I could. I have been spending a lot of time working my actual job, but I've also had time to advance this project that I haven't taken advantage of.
+
 ## Project in Progress
 Steward is currently in the early concept and research phase. 
 
